@@ -1,1 +1,1 @@
-display confused_smiley
+display 1-confused_smiley
