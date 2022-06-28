@@ -1,1 +1,1 @@
-Print Hello World
+display confused_smiley
